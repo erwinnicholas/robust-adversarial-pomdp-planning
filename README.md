@@ -17,13 +17,14 @@
 
 ---
 
-## Badges — replace `<USER>/<REPO>`
-These badges are placeholders. Replace the links with your repo paths, CI workflow and other badges you actually enable.
+
 
 ```md
-[![CI](https://img.shields.io/github/actions/workflow/status/<USER>/<REPO>/ci.yml)](https://github.com/<USER>/<REPO>/actions)
-[![Release](https://img.shields.io/github/v/release/<USER>/<REPO>)](https://github.com/<USER>/<REPO>/releases)
+[![CI](https://img.shields.io/github/actions/workflow/status/erwinnicholas/robust-adversarial-pomdp-planning/ci.yml)](https://github.com/<USER>/<REPO>/actions)
+[![Release](https://img.shields.io/github/v/release/erwinnicholas/robust-adversarial-pomdp-planning)](https://github.com/erwinnicholas/robust-adversarial-pomdp-planning/releases)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+
+
 Repo layout (concise)
 .
 ├─ README.md
@@ -35,7 +36,8 @@ Repo layout (concise)
 ├─ run_adversary_analysis.py
 ├─ run_ablation_study.py
 ├─ run_scenario_simulation.py
-└─ results/                        # committed final figures & CSVs
+
+
 How to run (copy-paste)
 Install:
 
