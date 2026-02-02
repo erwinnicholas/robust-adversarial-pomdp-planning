@@ -1,6 +1,5 @@
 # RIBDP — Robust Intent-Based Belief Dynamic Planner
 
-[![CI](https://img.shields.io/badge/ci-none-lightgrey)](https://github.com/erwinnicholas/robust-adversarial-pomdp-planning/actions)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)]()
 [![Torch optional](https://img.shields.io/badge/torch-optional-orange.svg)]()
